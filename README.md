@@ -1,4 +1,4 @@
-# Debora Almeida - Fronend Developer
+# Debora Almeida - Frontend Developer
 
 ### Olá! 👋
 
